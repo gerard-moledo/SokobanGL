@@ -1,7 +1,7 @@
 # SokobanGL
 Sokoban-based puzzle game made for OpenGL practice.
 
-WIP playable at this repository's Github Pages page: https://gerard-moledo.github.io/opengl-puzzle-game/
+WIP playable at this repository's Github Pages page: [https://gerard-moledo.github.io/SokobanGL/](https://gerard-moledo.github.io/SokobanGL/)
 
 ![Block Block](https://user-images.githubusercontent.com/72152123/177729391-5f1cfd8b-782e-4b41-8410-5b0ff7e02b7d.gif)
 
